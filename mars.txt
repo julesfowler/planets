@@ -1,5 +1,4 @@
 Cold and dry but blue, of course, which is my fav color...
 The TWO moons might be a strugg for wolfyboi.
 This extra line is a special note for Mario!
-Great! My first collaboration with Git.
-
+Great. My first collaboration with Git.
